@@ -6,7 +6,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".views.EditarImagemFragment"
-        android:background="@color/azul_marinho"
+        android:background="@color/federal_blue"
 >
 
     <TextView
@@ -17,7 +17,7 @@
             android:textSize="30dp"
             android:text="Editar Imagem de Perfil"
             android:textColor="@color/white"
-            android:fontFamily="@font/titilliumweb_bold"
+            android:fontFamily="@font/vwheadbold"
 
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

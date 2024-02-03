@@ -6,7 +6,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".views.ListaServicosFragment"
-        android:background="@color/azul_marinho"
+        android:background="@color/federal_blue"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
 >
@@ -18,8 +18,8 @@
             android:textAlignment="center"
             android:textSize="30dp"
             android:text="Serviços"
-            android:textColor="@color/white"
-            android:fontFamily="@font/titilliumweb_bold"
+            android:textColor="@color/white1"
+            android:fontFamily="@font/vwheadbold"
 
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
